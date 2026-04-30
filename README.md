@@ -12,10 +12,9 @@ Amazon Recommendation System
 	By reviewing these key concepts, people will understand that all components are essential to understanding Amazon’s recommendation system and how it operates.  Each element plays a role in creating a seamless and personalized experience for users. Together, these systems form a complex program that continuously learns and improves over time. Our lesson is designed to introduce and dive into these concepts. We’ll discuss why these concepts are important to Amazon's recommendation systems, though they're not limited to Amazon. Recommendation systems are found everywhere, from streaming platforms to online shopping. 
 	In conclusion, Amazon’s recommendation system represents a major advancement in leveraging data and technology to enhance the user experience. By evolving from simple collaborative filtering methods to sophisticated machine learning models, they created a system that delivers highly personalized recommendations at a large scale. This system not only improves customer satisfaction but also drives business success by increasing engagement and sales. Understanding how these systems work provides insight into the broader field of recommendation systems in their role in modern technology. 
 
-
+ 
 Work Cited
 
 Bouguezzi, Safa. “How Does the Amazon Recommendation System Work? | Baeldung on Computer Science.” Www.baeldung.com, 18 Mar. 2024, www.baeldung.com/cs/amazon-recommendation-system. 
 Hardesty, Larry. “The History of Amazon’s Recommendation Algorithm.” Amazon Science, 22 Nov. 2019, www.amazon.science/the-history-of-amazons-recommendation-algorithm. 
 Krysik, Arkadiusz. “Amazon Product Recommendation System: How Does Amazon’s Algorithm Work?” Stratoflow, 13 June 2024, stratoflow.com/amazon-recommendation-system/. 
-
