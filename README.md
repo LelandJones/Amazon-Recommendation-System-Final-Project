@@ -1,7 +1,7 @@
- Amazon-Recommendation-System-Final-Project
+ ## Amazon-Recommendation-System-Final-Project
 
-Amazon Recommendation System
-	Amazon’s recommendation system is considered one of the most powerful and influential examples of data-driven personalization. As one of the largest online marketplaces worldwide, Amazon relies heavily on its ability to predict which content users might purchase and present it in a relevant and timely manner. As time progresses, Amazon has transformed its recommendation system from a simple algorithm based on collaborative filtering to a far more complex, large-scale machine learning system that can analyze users’ behavior, product data, and real-time interactions. This evolution enables Amazon to deliver a highly personalized shopping experience, benefiting both the company and its customers.
+### Amazon Recommendation System
+Amazon’s recommendation system is considered one of the most powerful and influential examples of data-driven personalization. As one of the largest online marketplaces worldwide, Amazon relies heavily on its ability to predict which content users might purchase and present it in a relevant and timely manner. As time progresses, Amazon has transformed its recommendation system from a simple algorithm based on collaborative filtering to a far more complex, large-scale machine learning system that can analyze users’ behavior, product data, and real-time interactions. This evolution enables Amazon to deliver a highly personalized shopping experience, benefiting both the company and its customers.
 	During Amazon’s early days, its recommendation system primarily relied on collaborative filtering, a method that identifies patterns in a user’s behavior to suggest similar products. Collaborative filtering works by comparing users and items to find similarities. For example, let's say two customers purchase a large number of the same products. The system would detect the similarity and would recommend products to one of the customers based on someone who did. Amazon has been known for its use of item-to-item collaborative filtering, solely focusing on relationships between products rather than users. This approach enabled them to generate recommendations more efficiently and at a larger scale. Instead of matching entire user profiles, the system quickly identifies related products based on purchasing patterns.
 	While this early method was effective, the system also had its flaws and limitations. As Amazon’s customer base and product catalog grow, the amount of data used increases dramatically, making it harder for the collaborative filtering system to perform correctly. Another issue that the system struggled with was the “cold start”. The cold start problem occurred when new users and products lacked sufficient data for accurate recommendations. To address these issues, Amazon began evolving its recommendation system by incorporating more advanced technologies. They included machine learning models that focused on processing larger datasets and making more sophisticated predictions. 
 	The transition to machine learning was a significant turning point in Amazon’s recommendation system development. Compared to basic algorithms, machine learning models can analyze large amounts of data and identify complex patterns that might not be obvious. These models focus on a wide range of factors, including user behavior, product attributes, and contextual information. For example, the system can consider a user’s browsing history, past purchases, search results, and how long they view certain items. By combining these results, Amazon can generate highly accurate and personalized recommendations. 
@@ -18,3 +18,12 @@ Work Cited
 Bouguezzi, Safa. “How Does the Amazon Recommendation System Work? | Baeldung on Computer Science.” Www.baeldung.com, 18 Mar. 2024, www.baeldung.com/cs/amazon-recommendation-system. 
 Hardesty, Larry. “The History of Amazon’s Recommendation Algorithm.” Amazon Science, 22 Nov. 2019, www.amazon.science/the-history-of-amazons-recommendation-algorithm. 
 Krysik, Arkadiusz. “Amazon Product Recommendation System: How Does Amazon’s Algorithm Work?” Stratoflow, 13 June 2024, stratoflow.com/amazon-recommendation-system/. 
+
+
+
+### How to Use Materials
+To perform the coding exercise linked in the coding, make sure the CSV file is in the same folder as the Python code.
+
+
+
+
